@@ -510,7 +510,7 @@ Information on the current Node.js Working Groups can be found in the
 
 Soon it will update on different plateforms like in 
 [PlaysTimes](http://www.playstimes.com/),
-[OnlyError] (http://www.onlyerror.com/).
+[OnlyError](http://www.onlyerror.com/).
 
 [npm]: https://www.npmjs.com
 [Website]: https://nodejs.org/en/
